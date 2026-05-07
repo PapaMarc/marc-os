@@ -1,0 +1,39 @@
+┌──────────────────────────────────────────────────────────────────────┐
+│                              MarcOS                                  │
+│                A Dual‑Mode + Meta‑Loop Architecture                  │
+└──────────────────────────────────────────────────────────────────────┘
+
+                   ┌────────────────────────────────┐
+                   │          PEOPLE ROUTE          │
+                   │  Long‑arc human connections    │
+                   │  • Sounding boards             │
+                   │  • Inflection‑point support    │
+                   │  • Real‑world testing          │
+                   └────────────────────────────────┘
+                                │
+                                │  External feedback
+                                ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│                         META‑COGNITIVE LOOP                          │
+│   Recursive Klein‑bottle‑like cycle: model → test → refine → repeat  │
+│   • Conscious rationalization of subconscious machinery              │
+│   • Distilled version of the internal works                          │
+└──────────────────────────────────────────────────────────────────────┘
+                                ▲
+                                │  Internal synthesis
+                                │
+                ┌───────────────────────────────────┐
+                │          QUIET GAMES              │
+                │  Deep technical/creative work     │
+                │  • Tinkering, rebuilding          │
+                │  • Coding, modeling, sw/hw/fw     |
+                │  • EspressoMach, appliances, autos│
+                │  • Research → design → build      │
+                └───────────────────────────────────┘
+
+Notes:
+- People Route = external testing layer
+- Quiet Games = internal R&D lab
+- Meta‑Loop = the Klein‑bottle recursion binding them
+- Emails = uncompressed signal
+- Operating Model = distilled rationalization
