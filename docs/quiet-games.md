@@ -4,7 +4,7 @@ Quiet Games is one of the two pillars of MarcOS.
 The other is the People Route.  
 The Meta‑Loop binds them.
 
-Quiet Games is the internal mode — the craft, tinkering, and flow‑state work that happens when I am alone, absorbed, and operating without external mirrors. It is where I refine ideas, build systems, explore abstractions, and follow threads of curiosity until they reveal structure.
+Quiet Games is the internal mode — the craft, tinkering, and flow‑state work that happens when I am alone, absorbed, and operating without external mirrors. Quiet Games began as instinctive, absorbing pursuits I disappeared into without planning; only later did I recognize them as a coherent mode. It is where I refine ideas, build systems, explore abstractions, and follow threads of curiosity until they reveal structure.
 
 It is the mode where I metabolize signal.
 
