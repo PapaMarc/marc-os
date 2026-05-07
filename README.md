@@ -43,7 +43,8 @@ See [`docs/people-route.md`](docs/people-route.md) for the full articulation.
 
 ## 2. Quiet Games
 
-A term coined years ago by my childhood friend **Brian (of Darcizzle Offshore fame)** after observing
+A term coined years ago by my childhood friend [Brian (of Darcizzle Offshore fame)](https://www.youtube.com/watch?v=hNli5QNOKGM)
+after observing
 my personal projects over time. Quiet Games are the deep, absorbing, intrinsically motivated pursuits
 I disappear into — tinkering, rebuilding, coding, restoring, designing, documenting.
 
