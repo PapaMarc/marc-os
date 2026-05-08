@@ -162,3 +162,4 @@ See `LICENSE` for details.
 ## 9. Contributing
 
 See `CONTRIBUTING.md` for guidelines on referencing, extending, or adapting the model.
+<for the moment, i didn't bother creating  the CONTRIBUTING.md because i'm not certain anyone will read this, let alone have any reason or motiviation to contribute. If you can find me, and i presume that's not too difficult, feel free to email me. Any feedback is welcomed. If i infer this section warrants revision, i'll address it.>
