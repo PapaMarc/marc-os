@@ -111,7 +111,7 @@ Emails become snapshots of the internal graph traversal.
 The Operating Model is my conscious attempt to rationalize what has long operated subconsciously — the *distilled* surface of deeper internal machinery.  
 The emails are the *uncompressed* version.  
 Both are authentic. Both are part of how I move through the world.
-The distilled model and the uncompressed emails are just two views of the same internal machinery.
+The distilled model and the stream-of-conciousness emails are two views of the same internal machinery.
 
 See [`docs/flow-state-and-circuituous-emails.md`](docs/flow-state-and-circuituous-emails.md) for the full description.
 
