@@ -122,10 +122,10 @@ Below are the two diagram views of MarcOS.
 The ASCII versions live in the `/diagrams` directory.
 
 ### Engineering Diagram  
-See: `/diagrams/marc-os-engineering-ascii.txt`
+See: [`/diagrams/marc-os-engineering-ascii.txt`](/diagrams/marc-os-engineering-ascii.txt)
 
 ### Philosophical / Artistic Diagram  
-See: `/diagrams/marc-os-philosophical-ascii.txt`
+See: [`/diagrams/marc-os-philosophical-ascii.txt`](/diagrams/marc-os-philosophical-ascii.txt)
 
 ---
 
