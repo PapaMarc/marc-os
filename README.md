@@ -6,7 +6,7 @@
 ---
 
 A dual‑mode + meta‑loop cognitive architecture for contribution, mastery, and continuous evolution.  
-This repository documents the system I’ve lived by for decades — formalized only recently after a
+This repository documents the system I’ve lived with for decades — formalized only recently after a
 reflection written about me prompted a long‑overdue articulation of the underlying model.
 
 MarcOS consists of three interlocking components:
@@ -110,7 +110,8 @@ Emails become snapshots of the internal graph traversal.
 
 The Operating Model is my conscious attempt to rationalize what has long operated subconsciously — the *distilled* surface of deeper internal machinery.  
 The emails are the *uncompressed* version.  
-Both are authentic. Both are necessary.
+Both are authentic. Both are part of how I move through the world.
+The distilled model and the uncompressed emails are just two views of the same internal machinery.
 
 See [`docs/flow-state-and-circuituous-emails.md`](docs/flow-state-and-circuituous-emails.md) for the full description.
 
