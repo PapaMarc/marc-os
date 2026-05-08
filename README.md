@@ -136,7 +136,7 @@ See the `/docs` directory for:
 
 - [`marc-os-v1.0-onepager.md`](docs/marc-os-v1.0-onepager.md) 
 - [`meta-loop-explained.md`](docs/meta-loop-explained.md) 
-- [`quiet-games.md`](docs/quiet-games.md)  
+- [`people-route.md`](docs/people-route.md)  
 - [`quiet-games.md`](docs/quiet-games.md)
 - [`flow-state-and-circuituous-emails.md`](docs/flow-state-and-circuituous-emails.md)
 
