@@ -134,10 +134,10 @@ See: [`/diagrams/marc-os-philosophical-ascii.txt`](/diagrams/marc-os-philosophic
 
 See the `/docs` directory for:
 
-- [`marc-os-v1.0-onepager.md`](docs/marc-os-v1.0-onepager.md) 
-- [`meta-loop-explained.md`](docs/meta-loop-explained.md) 
+- [`marc-os-v1.0-onepager.md`](docs/marc-os-v1.0-onepager.md)  
 - [`people-route.md`](docs/people-route.md)  
 - [`quiet-games.md`](docs/quiet-games.md)
+- [`meta-loop-explained.md`](docs/meta-loop-explained.md)
 - [`flow-state-and-circuituous-emails.md`](docs/flow-state-and-circuituous-emails.md)
 
 ---
