@@ -139,6 +139,7 @@ See the `/docs` directory for:
 - [`quiet-games.md`](docs/quiet-games.md)
 - [`meta-loop-explained.md`](docs/meta-loop-explained.md)
 - [`flow-state-and-circuituous-emails.md`](docs/flow-state-and-circuituous-emails.md)
+- [`experience-meta-loop-ephiphany.md`](docs/experience-meta-loop-ephiphany.md)
 
 ---
 
