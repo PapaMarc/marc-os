@@ -1,7 +1,7 @@
 # MarcOS  
 ### The Marc Operating Model
 
-**The autobiographical model that follows is an attempt to trace the internal patterns I’ve lived for decades — patterns that show up in my work, my projects, my circuitous emails, and the way I move through the world. Others have recognized these loops in me long before I ever tried to describe them. If any of this resonates, I hope it’s because the account is honest: a faithful rendering of the chaos, the clarity, and the smooth Klein‑bottle path between them — a shape I’ve kept on my desk for years, and only now am beginning to understand as a diagram of my own inner works (in the horological sense as much as the cognitive one-- see the Meta‑Loop explanation in /docs/meta-loop-explained.md).**
+**The autobiographical model that follows is an attempt to trace the internal patterns I’ve lived for decades — patterns that show up in my work, my projects, my circuitous emails, and the way I move through the world. Others have recognized these loops in me long before I ever tried to describe them. If any of this resonates, I hope it’s because the account is honest: a faithful rendering of the chaos, the clarity, and the smooth Klein‑bottle path between them — a shape I’ve kept on my desk for years, and only now am beginning to understand as a diagram of my own inner works (in the horological sense as much as the cognitive one).**
 
 ---
 
