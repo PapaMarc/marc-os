@@ -9,12 +9,12 @@ Not mildly skeptical — deeply skeptical.
 It has always felt abstract, self‑indulgent, suspiciously tidy.  
 A Klein‑bottle metaphor I liked more than I trusted.
 
-Even while writing MarcOS v1.0, I kept thinking:  
-*This part is probably bullshit.*
+When getting MarcOS v1.0 out of my head and on to 'paper' i returned to the thought...  
+*This part is bullshit.*
 
 And yet — every time I dismiss it, something happens that forces me to reconsider.
 
-This document is about one of those moments.
+This document is about one of those moments, the day after persisting the other docs.
 
 ---
 
@@ -31,7 +31,7 @@ And then, without warning, the last twelve years snapped into a coherent narrati
 ---
 
 ## 3. The Identity Question I Could Never Answer
-Since leaving Microsoft in 2014, I’ve struggled with a simple question:
+Since leaving Microsoft in 2014, I’ve struggled with a simple question asked of me repeatedly by others:
 
 **“So what are you doing now?”**
 
@@ -150,10 +150,10 @@ Again.
 I don’t know if I’ll ever share this publicly.  
 I don’t know if I want to.
 
-But I want it for myself... assuming i'll fall back to thinking this is contribed.
-I want my wife to have it.  
-I want my kids to have it when they’re ready.  
-And maybe someday, when the tech is ready... my kids, or other ancestors may choose to simulate “doing chatting with Papa,” this may assist in instructing the system in attempting to more accurately represent me.  The way I think, operate, and love.
+But I want it for myself... assuming i'll fall back to thinking this is contrived.
+-I want my wife to have it.  
+-I want my kids to have it when they’re ready.  
+-And maybe someday, when the tech is ready... my kids, or other offspring may choose to run ancestor simulations of “doing chatting with Papa.” And perhaps at that time, these docs may assist in instructing the system to more accurately represent me.  The way I think, operate, and love.
 
 This isn’t a manifesto.  
 It’s not a theory.  
