@@ -147,8 +147,8 @@ Again.
 ---
 
 ## 8. Why I’m Capturing This
-I don’t know if I’ll ever share this publicly.  
-I don’t know if I want to.
+While i have no intent to 'publish' this i also have no need to hide it or hide from it.  
+I don't believe i yet have a neat answer for others even if i now have an answer for myself. I have no reason to believe this will cleanly'translate' for others asking, 'So what are you doing now?'
 
 But I want it for myself... assuming i'll fall back to thinking this is contrived.
 -I want my wife to have it.  
