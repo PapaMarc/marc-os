@@ -154,7 +154,7 @@ But I want it for myself... assuming i'll fall back to thinking this is contrive
 -I want my wife to have it.  
 -I want my kids to have it when they’re ready.  
 -And maybe someday, when the tech is ready... my kids, or other offspring may choose to [run ancestor simulations](https://github.com/PapaMarc/dreidel)
- of “doing chatting with Papa.” And perhaps at that time, these docs may assist in instructing the system to more accurately represent me.  The way I think, operate, and love.
+ of “doing chatting with PapaMarc.” And perhaps at that time, these docs may assist in instructing the system to more accurately represent me.  The way I think, operate, and love.
 
 This isn’t a manifesto.  
 It’s not a theory.  
